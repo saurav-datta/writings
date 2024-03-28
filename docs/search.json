@@ -23,7 +23,7 @@
     "href": "activationfunctions/sigmoid.html",
     "title": "Sigmoid",
     "section": "",
-    "text": "tags:",
+    "text": "#all/deeplearning/activationFunctions\nThe sigmoid function can be defined as:\nf(x) = 1 / (1 + e^(-x))\nWhere:\n\nf(x) is the output of the sigmoid function for input x\ne is the Eulers number (approximately 2.71828)\n\nIn Python, the sigmoid function can be implemented as follows:\nimport math\n\ndef sigmoid(x):\n    return 1 / (1 + math.exp(-x))\nThis function takes an input x and returns the output of the sigmoid function for that input.",
     "crumbs": [
       "Home",
       "Activationfunctions",
@@ -34,20 +34,8 @@
     "objectID": "activationfunctions/sigmoid.html#sigmoid-1",
     "href": "activationfunctions/sigmoid.html#sigmoid-1",
     "title": "Sigmoid",
-    "section": "Sigmoid",
-    "text": "Sigmoid\n#all/deeplearning/activationFunctions\nThe sigmoid function can be defined as:\nf(x) = 1 / (1 + e^(-x))\nWhere:\n\nf(x) is the output of the sigmoid function for input x\ne is the Euler’s number (approximately 2.71828)\n\n⠀ In Python, the sigmoid function can be implemented as follows:\nimport math\n\ndef sigmoid(x):\n    return 1 / (1 + math.exp(-x))\nThis function takes an input x and returns the output of the sigmoid function for that input.",
-    "crumbs": [
-      "Home",
-      "Activationfunctions",
-      "Sigmoid"
-    ]
-  },
-  {
-    "objectID": "activationfunctions/sigmoid.html#activation-functions",
-    "href": "activationfunctions/sigmoid.html#activation-functions",
-    "title": "Sigmoid",
-    "section": "activation-functions",
-    "text": "activation-functions",
+    "section": "",
+    "text": "#all/deeplearning/activationFunctions\nThe sigmoid function can be defined as:\nf(x) = 1 / (1 + e^(-x))\nWhere:\n\nf(x) is the output of the sigmoid function for input x\ne is the Eulers number (approximately 2.71828)\n\nIn Python, the sigmoid function can be implemented as follows:\nimport math\n\ndef sigmoid(x):\n    return 1 / (1 + math.exp(-x))\nThis function takes an input x and returns the output of the sigmoid function for that input.",
     "crumbs": [
       "Home",
       "Activationfunctions",
