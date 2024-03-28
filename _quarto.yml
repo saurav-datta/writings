@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: ../writings/docs
+  preview:
+    watch-inputs: true
+    navigate: true
+  
+    
+website:
+  title: "Quarto_site"
+  site-url: "/docs"
+  site-path: "/docs"
+  search: 
+    location: sidebar
+    type: overlay
+
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+  sidebar:
+#     id: mainsidebar
+    style: "floating"
+    collapse: true
+    collapse-level: 1  
+    contents: auto     
+    pinned: true
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+
+
