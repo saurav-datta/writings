@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "docs copy/about.html",
+    "href": "docs copy/about.html",
+    "title": "AboutDocs",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "Home",
+      "docs copy",
+      "AboutDocs"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto_site",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "docs/about.html",
+    "href": "docs/about.html",
+    "title": "AboutDocs",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "Home",
+      "Docs",
+      "AboutDocs"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
+  }
+]
