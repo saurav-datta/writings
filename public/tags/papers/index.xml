@@ -10,10 +10,10 @@
     <atom:link href="http://localhost:1313/writings/tags/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Papers</title>
-      <link>http://localhost:1313/writings/posts/papers/</link>
+      <link>http://localhost:1313/writings/posts/papers/all_papers/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/posts/papers/</guid>
-      <description></description>
+      <guid>http://localhost:1313/writings/posts/papers/all_papers/</guid>
+      <description>&lt;h2 id=&#34;embeddings-constrained&#34;&gt;Embeddings constrained&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/writings/posts/papers/individual_papers/memory_augmentation_multimodal_mobile/&#34;&gt;Memory Augmentation via Mobile Multimodal Embedding, 2025&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;activation-functions&#34;&gt;Activation functions&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2503.10622&#34;&gt;Dynamic Tanh, 2025&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;llm-finetuning&#34;&gt;LLM Finetuning&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://aclanthology.org/2024.emnlp-main.444.pdf&#34;&gt;FT on Knowledge Encourage Hallucinations, 2024, Google&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.arxiv.org/pdf/2508.09494&#34;&gt;Learning Facts at Scale with Active Reading, 2025, Meta&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

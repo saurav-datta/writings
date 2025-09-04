@@ -21,7 +21,8 @@
   --color-selection-code-bg: #e0c9a6;
 
   /* Layout */
-  --container-width: 64ch;
+  /* --container-width: 64ch; */
+  --container-width: 80ch;
   --border-radius: 3px;
   --gap-base: 1em;
   --gap-small: 0.5em;
