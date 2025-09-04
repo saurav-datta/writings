@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Thoughts and Notes</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/writings/posts/</link>
     <description>Recent content in Posts on Thoughts and Notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Sep 2025 00:23:29 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/writings/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Second Post</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
-      <pubDate>Thu, 04 Sep 2025 00:23:29 -0700</pubDate>
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <title>Papers</title>
+      <link>http://localhost:1313/writings/posts/papers/all_papers/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/posts/papers/all_papers/</guid>
+      <description>&lt;h2 id=&#34;embeddings-constrained&#34;&gt;Embeddings constrained&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/writings/posts/papers/individual_papers/memory_augmentation_multimodal_mobile/&#34;&gt;Memory Augmentation via Mobile Multimodal Embedding, 2025&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;activation-functions&#34;&gt;Activation functions&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2503.10622&#34;&gt;Dynamic Tanh, 2025&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;llm-finetuning&#34;&gt;LLM Finetuning&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://aclanthology.org/2024.emnlp-main.444.pdf&#34;&gt;FT on Knowledge Encourage Hallucinations, 2024, Google&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.arxiv.org/pdf/2508.09494&#34;&gt;Learning Facts at Scale with Active Reading, 2025, Meta&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 03 Sep 2025 23:36:30 -0700</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <title>Memory Augmentation via Mobile Multimodal Embedding</title>
+      <link>http://localhost:1313/writings/posts/papers/individual_papers/memory_augmentation_multimodal_mobile/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/posts/papers/individual_papers/memory_augmentation_multimodal_mobile/</guid>
+      <description>&lt;h2 id=&#34;memory-augmentation-via-mobile-multimodal-embedding-2025&#34;&gt;Memory augmentation via mobile multimodal embedding, 2025&lt;/h2&gt;&#xA;&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Paper: &lt;a href=&#34;https://www.nature.com/articles/s41467-025-60802-5&#34;&gt;https://www.nature.com/articles/s41467-025-60802-5&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://pmc.ncbi.nlm.nih.gov/articles/instance/12179270/bin/41467_2025_60802_MOESM1_ESM.pdf&#34;&gt;Supplementary material&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/caidongqi/Mobile-Search-Engine/tree/pc&#34;&gt;Code&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;&#xA;&lt;p&gt;Shares a new approach to multi-modal embeddings on a resource constrained device, such as your smartphone, relative to cloud.&lt;/p&gt;&#xA;&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./reminesce_architecture.png&#34; alt=&#34;architecture&#34;&gt;&#xA;&lt;img src=&#34;./reminesce_workflow.png&#34; alt=&#34;workflow&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;whats-new&#34;&gt;What&amp;rsquo;s new&lt;/h3&gt;&#xA;&lt;p&gt;The core idea is to generate &amp;ldquo;coarse-grained embeddings&amp;rdquo; via a predictor-guided early-exit strategy to efficiently identify likely candidates during retrieval, while using lightweight adapters and refined retrieval to maintain accuracy. The framework is aptly named &amp;ldquo;Reminisce&amp;rdquo;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

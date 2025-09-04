@@ -1,12 +1,11 @@
 +++
 date = '2024-03-05'
 draft = false
-title = 'EMbeddings Contrained'
-tags = ['embeddings', 'embeddings_contrained','Reminesce','']
+title = 'Memory Augmentation via Mobile Multimodal Embedding'
+tags = ['embeddings', 'embeddings_constrained','Reminesce']
 +++
 
-## Ubiquitous memory augmentation via mobile multimodal embedding system, 2025
-
+## Memory augmentation via mobile multimodal embedding, 2025
 ### Reference
 - Paper: [https://www.nature.com/articles/s41467-025-60802-5](https://www.nature.com/articles/s41467-025-60802-5)
 - [Supplementary material](https://pmc.ncbi.nlm.nih.gov/articles/instance/12179270/bin/41467_2025_60802_MOESM1_ESM.pdf)
@@ -18,8 +17,6 @@ Shares a new approach to multi-modal embeddings on a resource constrained device
 
 
 ### Diagrams
-{{ $image := .Resources.Get "reminesce_architecture.png" }}
-
 
 ![architecture](./reminesce_architecture.png)
 ![workflow](./reminesce_workflow.png)

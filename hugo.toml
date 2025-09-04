@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://saurav-datta.github.io/writings/'
 languageCode = 'en-us'
 title = 'Thoughts and Notes'
 theme = 'shibui'

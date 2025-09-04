@@ -2,52 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Thoughts and Notes</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/writings/tags/</link>
     <description>Recent content in Tags on Thoughts and Notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Sep 2025 00:23:29 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/writings/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First_value</title>
-      <link>http://localhost:1313/tags/first_value/</link>
+      <link>http://localhost:1313/writings/tags/first_value/</link>
       <pubDate>Thu, 04 Sep 2025 00:23:29 -0700</pubDate>
-      <guid>http://localhost:1313/tags/first_value/</guid>
+      <guid>http://localhost:1313/writings/tags/first_value/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts</title>
-      <link>http://localhost:1313/tags/posts/</link>
+      <link>http://localhost:1313/writings/tags/posts/</link>
       <pubDate>Thu, 04 Sep 2025 00:23:29 -0700</pubDate>
-      <guid>http://localhost:1313/tags/posts/</guid>
+      <guid>http://localhost:1313/writings/tags/posts/</guid>
       <description></description>
     </item>
     <item>
       <title>Second</title>
-      <link>http://localhost:1313/tags/second/</link>
+      <link>http://localhost:1313/writings/tags/second/</link>
       <pubDate>Thu, 04 Sep 2025 00:23:29 -0700</pubDate>
-      <guid>http://localhost:1313/tags/second/</guid>
+      <guid>http://localhost:1313/writings/tags/second/</guid>
       <description></description>
     </item>
     <item>
       <title>First</title>
-      <link>http://localhost:1313/tags/first/</link>
+      <link>http://localhost:1313/writings/tags/first/</link>
       <pubDate>Wed, 03 Sep 2025 23:36:30 -0700</pubDate>
-      <guid>http://localhost:1313/tags/first/</guid>
+      <guid>http://localhost:1313/writings/tags/first/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Papers</title>
+      <link>http://localhost:1313/writings/tags/papers/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/tags/papers/</guid>
       <description></description>
     </item>
     <item>
       <title>Activation-Functions</title>
-      <link>http://localhost:1313/tags/activation-functions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/activation-functions/</guid>
+      <link>http://localhost:1313/writings/tags/activation-functions/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/tags/activation-functions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Embeddings</title>
+      <link>http://localhost:1313/writings/tags/embeddings/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/tags/embeddings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Embeddings_constrained</title>
+      <link>http://localhost:1313/writings/tags/embeddings_constrained/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/tags/embeddings_constrained/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reminesce</title>
+      <link>http://localhost:1313/writings/tags/reminesce/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/tags/reminesce/</guid>
       <description></description>
     </item>
     <item>
       <title>Sigmoid</title>
-      <link>http://localhost:1313/tags/sigmoid/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sigmoid/</guid>
+      <link>http://localhost:1313/writings/tags/sigmoid/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/tags/sigmoid/</guid>
       <description></description>
     </item>
   </channel>
