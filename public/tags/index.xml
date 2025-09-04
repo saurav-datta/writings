@@ -6,6 +6,49 @@
     <description>Recent content in Tags on Thoughts and Notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 04 Sep 2025 00:23:29 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_value</title>
+      <link>http://localhost:1313/tags/first_value/</link>
+      <pubDate>Thu, 04 Sep 2025 00:23:29 -0700</pubDate>
+      <guid>http://localhost:1313/tags/first_value/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Posts</title>
+      <link>http://localhost:1313/tags/posts/</link>
+      <pubDate>Thu, 04 Sep 2025 00:23:29 -0700</pubDate>
+      <guid>http://localhost:1313/tags/posts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Second</title>
+      <link>http://localhost:1313/tags/second/</link>
+      <pubDate>Thu, 04 Sep 2025 00:23:29 -0700</pubDate>
+      <guid>http://localhost:1313/tags/second/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/tags/first/</link>
+      <pubDate>Wed, 03 Sep 2025 23:36:30 -0700</pubDate>
+      <guid>http://localhost:1313/tags/first/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Activation-Functions</title>
+      <link>http://localhost:1313/tags/activation-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/activation-functions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sigmoid</title>
+      <link>http://localhost:1313/tags/sigmoid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sigmoid/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 date = '2025-09-04T00:23:29-07:00'
 draft = false
 title = 'My Second Post'
-tags: ['posts','second', 'second_value']
+tags = ['posts', 'second', 'first_value']
 
 +++
 ## Introduction

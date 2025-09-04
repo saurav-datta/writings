@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sigmoid on Thoughts and Notes</title>
+    <link>http://localhost:1313/tags/sigmoid/</link>
+    <description>Recent content in Sigmoid on Thoughts and Notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/sigmoid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My sigmoid</title>
+      <link>http://localhost:1313/posts/activation_functions/sigmoid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/activation_functions/sigmoid/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;date : &amp;lsquo;2025-09-04T00:23:29-07:00&amp;rsquo;&#xA;draft : false&#xA;title : &amp;lsquo;sigmoid&amp;rsquo;&#xA;tags:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;activationfunctions&lt;/li&gt;&#xA;&lt;li&gt;deeplearning&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;sigmoid&#34;&gt;Sigmoid&lt;/h1&gt;&#xA;&lt;h2 id=&#34;sigmoid-1&#34;&gt;Sigmoid&lt;/h2&gt;&#xA;&lt;p&gt;#all/deeplearning/activationFunctions&lt;/p&gt;&#xA;&lt;p&gt;The sigmoid function can be defined as:&lt;/p&gt;&#xA;&lt;p&gt;f(x) = 1 / (1 + e^(-x))&lt;/p&gt;&#xA;&lt;p&gt;Where:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;f(x) is the output of the sigmoid function for input x&lt;/li&gt;&#xA;&lt;li&gt;e is the Euler’s number (approximately 2.71828)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;⠀ In Python, the sigmoid function can be implemented as follows:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
