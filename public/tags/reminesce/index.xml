@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reminesce on Thoughts and Notes</title>
+    <link>http://localhost:1313/tags/reminesce/</link>
+    <description>Recent content in Reminesce on Thoughts and Notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/reminesce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EMbeddings Contrained</title>
+      <link>http://localhost:1313/posts/papers/embeddings_constrained/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/papers/embeddings_constrained/</guid>
+      <description>&lt;h1 id=&#34;ubiquitous-memory-augmentation-via-mobile-multimodal-embedding-system-2025&#34;&gt;Ubiquitous memory augmentation via mobile multimodal embedding system [2025]&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Paper: &lt;a href=&#34;https://www.nature.com/articles/s41467-025-60802-5&#34;&gt;https://www.nature.com/articles/s41467-025-60802-5&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://pmc.ncbi.nlm.nih.gov/articles/instance/12179270/bin/41467_2025_60802_MOESM1_ESM.pdf&#34;&gt;Supplementary material&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Code: &lt;a href=&#34;https://lnkd.in/g36fhwug&#34;&gt;https://lnkd.in/g36fhwug&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&#xA;Shares a new approach to multi-modal embeddings on a resource constrained device, such as your smartphone, relative to cloud.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s new&lt;/strong&gt;&#xA;The core idea is to generate &amp;ldquo;coarse-grained embeddings&amp;rdquo; via a predictor-guided early-exit strategy to efficiently identify likely candidates during retrieval, while using lightweight adapters and refined retrieval to maintain accuracy. The framework is aptly named &amp;ldquo;Reminisce&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

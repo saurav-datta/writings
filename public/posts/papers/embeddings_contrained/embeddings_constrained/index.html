@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>EMbeddings Contrained | Thoughts and Notes</title>
+<link rel="apple-touch-icon" sizes="57x57" href="/favicon_io/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicon_io/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicon_io/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicon_io/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicon_io/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicon_io/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicon_io/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicon_io/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon_io/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/favicon_io/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon_io/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon_io/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon_io/favicon-16x16.png">
+<link rel="manifest" href="/favicon_io/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/favicon_io/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+    <link rel="stylesheet" href="/css/main.css">
+
+
+      <script src="/js/main.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+
+
+</head>
+<body>
+  <header>
+    <header>
+  <nav class="path-nav">
+    <ol>
+      
+  
+    
+  
+    
+  
+    
+  
+    
+  
+  <li>
+    /
+    <a href="/">Thoughts and Notes</a>
+    /
+  </li>
+
+  
+  <li>
+    
+    <a href="/posts/">Posts</a>
+    /
+  </li>
+
+  
+  <li>
+    
+    <a href="/posts/papers/">Papers</a>
+    /
+  </li>
+
+  
+  <li>
+    
+    <a href="/posts/papers/embeddings_contrained/">Embeddings constrained</a>
+    /
+  </li>
+
+  
+  <li class="current">
+    
+    <a href="/posts/papers/embeddings_contrained/embeddings_constrained/">EMbeddings Contrained</a>
+    
+  </li>
+
+    </ol>
+  </nav>
+</header>
+
+
+
+  </header>
+  <main>
+    
+  <h1>EMbeddings Contrained</h1>
+  
+  <div class="terms-list">
+    <ul>
+        <li><a href="/tags/embeddings/">[Embeddings]</a></li>
+        <li><a href="/tags/embeddings_contrained/">[Embeddings_contrained]</a></li>
+        <li><a href="/tags/reminesce/">[Reminesce]</a></li>
+    </ul>
+  </div>
+
+
+  
+  
+    <nav class="toc">
+      <strong>Table of contents</strong>
+      <div class="toc-content">
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#ubiquitous-memory-augmentation-via-mobile-multimodal-embedding-system-2025">Ubiquitous memory augmentation via mobile multimodal embedding system, 2025</a>
+      <ul>
+        <li><a href="#reference">Reference</a></li>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#diagrams">Diagrams</a></li>
+        <li><a href="#whats-new">What&rsquo;s new</a></li>
+        <li><a href="#highlights">Highlights</a></li>
+        <li><a href="#summary">Summary</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+      </div>
+    </nav>
+  
+
+  <h2 id="ubiquitous-memory-augmentation-via-mobile-multimodal-embedding-system-2025">Ubiquitous memory augmentation via mobile multimodal embedding system, 2025</h2>
+<h3 id="reference">Reference</h3>
+<ul>
+<li>Paper: <a href="https://www.nature.com/articles/s41467-025-60802-5">https://www.nature.com/articles/s41467-025-60802-5</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/instance/12179270/bin/41467_2025_60802_MOESM1_ESM.pdf">Supplementary material</a></li>
+<li><a href="https://github.com/caidongqi/Mobile-Search-Engine/tree/pc">Code</a></li>
+</ul>
+<h3 id="overview">Overview</h3>
+<p>Shares a new approach to multi-modal embeddings on a resource constrained device, such as your smartphone, relative to cloud.</p>
+<h3 id="diagrams">Diagrams</h3>
+<p>{{ $image := .Resources.Get &ldquo;reminesce_architecture.png&rdquo; }}</p>
+<p><img src="./reminesce_architecture.png" alt="architecture">
+<img src="./reminesce_workflow.png" alt="workflow"></p>
+<h3 id="whats-new">What&rsquo;s new</h3>
+<p>The core idea is to generate &ldquo;coarse-grained embeddings&rdquo; via a predictor-guided early-exit strategy to efficiently identify likely candidates during retrieval, while using lightweight adapters and refined retrieval to maintain accuracy. The framework is aptly named &ldquo;Reminisce&rdquo;.</p>
+<h3 id="highlights">Highlights</h3>
+<ol>
+<li>
+<p><strong>What does efficiency mean here?</strong></p>
+<ul>
+<li>Reducing energy costs and query latency while maximizing throughout and maximizing retrieval accuracy</li>
+</ul>
+</li>
+<li>
+<p><strong>What are coarse embeddings?</strong></p>
+<ul>
+<li>Embeddings generated by using a subset of intermediate layers of the model</li>
+<li>Related concept &ldquo;superficial embeddings&rdquo;</li>
+</ul>
+</li>
+<li>
+<p><strong>How do we know which subset of layers to pick?</strong></p>
+<ul>
+<li>Exit points</li>
+<li>A small predictor model looks at intermediate embeddings and predicts the best exit layer ahead of time.</li>
+</ul>
+</li>
+<li>
+<p><strong>Coarse embeddings may affect retrieval accuracy</strong></p>
+<ul>
+<li>Yes, they do. The degration is mitigated through finetuning</li>
+</ul>
+</li>
+<li>
+<p><strong>Any particular approach to finetuning?</strong></p>
+<ul>
+<li>Uses LoRA</li>
+</ul>
+</li>
+<li>
+<p><strong>LoRA for each exit point/layer? That would be too many LoRAs</strong></p>
+<ul>
+<li>Uses &ldquo;Progressive LoRA healing&rdquo; to have a single LoRA suite covering all exit points.</li>
+<li>The strategy progressively increases the &ldquo;tuning depth (number of shared layers) at later exits&rdquo;</li>
+</ul>
+</li>
+<li>
+<p><strong>Quite a bit of optimizations for encoding. Anything else?</strong></p>
+<ul>
+<li>Cache intermediate activations (quantized to INT4) so they can be reused, avoiding re-computation.</li>
+<li>Cache release/invalidation strategy to keep memory low.</li>
+</ul>
+</li>
+<li>
+<p><strong>What happens during query encoding?</strong></p>
+</li>
+</ol>
+<ul>
+<li>Seems usual encoding of query does not result in expected retrieval accuracy</li>
+</ul>
+<ol start="9">
+<li><strong>So, how are queries encoded?</strong>
+<ul>
+<li>A query is encoded at different granularities</li>
+<li>Top-k candidates at each granularity are selected, then overall top-k which are then compared against the embeddings.</li>
+<li>Called &ldquo;speculative fine-grained retrieval&rdquo;</li>
+</ul>
+</li>
+</ol>
+<h3 id="summary">Summary</h3>
+<p>This is a multi-pronged approach to optimize encoding and retrieval on constrained platforms. It will be interesting to see how quickly and broadly the industry adopts it.</p>
+
+  <time datetime="2024-03-05">2024-03-05&nbsp;</time>
+
+
+  
+    <div class="terminal-nav">
+      <div class="back-nav">
+        <a href="../" class="back-link">../</a>
+      </div>
+    </div>
+  
+
+  </main>
+  <footer>
+    <p>
+  &copy; Copyright 2025 &middot;
+  <a href="https://github.com/ntk148v/shibui">shibui</a>
+</p>
+
+  </footer>
+</body>
+</html>
