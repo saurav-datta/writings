@@ -1,0 +1,9 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "shibui"]
+	path = shibui
+	url = https://github.com/ntk148v/shibui.git
+[submodule "themes/shibui"]
+	path = themes/shibui
+	url = https://github.com/ntk148v/shibui.git
