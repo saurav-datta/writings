@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Thoughts and Notes'
-theme = 'zen'
+theme = 'shibui'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
